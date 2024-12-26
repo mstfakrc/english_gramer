@@ -1,0 +1,550 @@
+ [
+      {
+        "id": 1,
+        "english": {
+          "present": "accept",
+          "past": "accepted",
+          "past_participle": "accepted"
+        },
+        "spanish": "aceptar",
+        "example": {
+          "present": "I accept your apology.",
+          "past": "I accepted your apology yesterday.",
+          "past_participle": "I have accepted your apology."
+        }
+      },
+      {
+        "id": 2,
+        "english": {
+          "present": "allow",
+          "past": "allowed",
+          "past_participle": "allowed"
+        },
+        "spanish": "permitir",
+        "example": {
+          "present": "She allows me to use her car.",
+          "past": "She allowed me to use her car yesterday.",
+          "past_participle": "She has allowed me to use her car."
+        }
+      },
+      {
+        "id": 3,
+        "english": {
+          "present": "ask",
+          "past": "asked",
+          "past_participle": "asked"
+        },
+        "spanish": "preguntar",
+        "example": {
+          "present": "Can I ask you a question?",
+          "past": "I asked you a question.",
+          "past_participle": "I have asked you a question."
+        }
+      },
+      {
+        "id": 4,
+        "english": {
+          "present": "believe",
+          "past": "believed",
+          "past_participle": "believed"
+        },
+        "spanish": "creer",
+        "example": {
+          "present": "I believe in you.",
+          "past": "I believed in you.",
+          "past_participle": "I have believed in you."
+        }
+      },
+      {
+        "id": 5,
+        "english": {
+          "present": "borrow",
+          "past": "borrowed",
+          "past_participle": "borrowed"
+        },
+        "spanish": "pedir prestado",
+        "example": {
+          "present": "Can I borrow your book?",
+          "past": "I borrowed your book.",
+          "past_participle": "I have borrowed your book."
+        }
+      },
+      {
+        "id": 6,
+        "english": {
+          "present": "call",
+          "past": "called",
+          "past_participle": "called"
+        },
+        "spanish": "llamar",
+        "example": {
+          "present": "I will call you later.",
+          "past": "I called you yesterday.",
+          "past_participle": "I have called you."
+        }
+      },
+      {
+        "id": 7,
+        "english": {
+          "present": "cancel",
+          "past": "cancelled",
+          "past_participle": "cancelled"
+        },
+        "spanish": "cancelar",
+        "example": {
+          "present": "We need to cancel the meeting.",
+          "past": "We cancelled the meeting.",
+          "past_participle": "We have cancelled the meeting."
+        }
+      },
+      {
+        "id": 8,
+        "english": {
+          "present": "change",
+          "past": "changed",
+          "past_participle": "changed"
+        },
+        "spanish": "cambiar",
+        "example": {
+          "present": "I will change my clothes.",
+          "past": "I changed my clothes.",
+          "past_participle": "I have changed my clothes."
+        }
+      },
+      {
+        "id": 9,
+        "english": {
+          "present": "clean",
+          "past": "cleaned",
+          "past_participle": "cleaned"
+        },
+        "spanish": "limpiar",
+        "example": {
+          "present": "She cleans the house.",
+          "past": "She cleaned the house.",
+          "past_participle": "She has cleaned the house."
+        }
+      },
+      {
+        "id": 10,
+        "english": {
+          "present": "close",
+          "past": "closed",
+          "past_participle": "closed"
+        },
+        "spanish": "cerrar",
+        "example": {
+          "present": "Please close the door.",
+          "past": "I closed the door.",
+          "past_participle": "I have closed the door."
+        }
+      },
+      {
+        "id": 11,
+        "english": {
+          "present": "dance",
+          "past": "danced",
+          "past_participle": "danced"
+        },
+        "spanish": "bailar",
+        "example": {
+          "present": "We dance every weekend.",
+          "past": "We danced last night.",
+          "past_participle": "We have danced together."
+        }
+      },
+      {
+        "id": 12,
+        "english": {
+          "present": "describe",
+          "past": "described",
+          "past_participle": "described"
+        },
+        "spanish": "describir",
+        "example": {
+          "present": "Can you describe the suspect?",
+          "past": "You described the suspect.",
+          "past_participle": "You have described the suspect."
+        }
+      },
+      {
+        "id": 13,
+        "english": {
+          "present": "explain",
+          "past": "explained",
+          "past_participle": "explained"
+        },
+        "spanish": "explicar",
+        "example": {
+          "present": "Can you explain the problem?",
+          "past": "You explained the problem.",
+          "past_participle": "You have explained the problem."
+        }
+      },
+      {
+        "id": 14,
+        "english": {
+          "present": "finish",
+          "past": "finished",
+          "past_participle": "finished"
+        },
+        "spanish": "terminar",
+        "example": {
+          "present": "I will finish my work soon.",
+          "past": "I finished my work.",
+          "past_participle": "I have finished my work."
+        }
+      },
+      {
+        "id": 15,
+        "english": {
+          "present": "help",
+          "past": "helped",
+          "past_participle": "helped"
+        },
+        "spanish": "ayudar",
+        "example": {
+          "present": "Can you help me with this?",
+          "past": "You helped me with this.",
+          "past_participle": "You have helped me with this."
+        }
+      },
+      {
+        "id": 16,
+        "english": {
+          "present": "like",
+          "past": "liked",
+          "past_participle": "liked"
+        },
+        "spanish": "gustar",
+        "example": {
+          "present": "I like this song.",
+          "past": "I liked this song.",
+          "past_participle": "I have liked this song."
+        }
+      },
+      {
+        "id": 17,
+        "english": {
+          "present": "live",
+          "past": "lived",
+          "past_participle": "lived"
+        },
+        "spanish": "vivir",
+        "example": {
+          "present": "I live in New York.",
+          "past": "I lived in New York.",
+          "past_participle": "I have lived in New York."
+        }
+      },
+      {
+        "id": 18,
+        "english": {
+          "present": "look",
+          "past": "looked",
+          "past_participle": "looked"
+        },
+        "spanish": "mirar",
+        "example": {
+          "present": "Look at the sky.",
+          "past": "I looked at the sky.",
+          "past_participle": "I have looked at the sky."
+        }
+      },
+      {
+        "id": 19,
+        "english": {
+          "present": "need",
+          "past": "needed",
+          "past_participle": "needed"
+        },
+        "spanish": "necesitar",
+        "example": {
+          "present": "I need some help.",
+          "past": "I needed some help.",
+          "past_participle": "I have needed some help."
+        }
+      },
+      {
+        "id": 20,
+        "english": {
+          "present": "open",
+          "past": "opened",
+          "past_participle": "opened"
+        },
+        "spanish": "abrir",
+        "example": {
+          "present": "Please open the window.",
+          "past": "I opened the window.",
+          "past_participle": "I have opened the window."
+        }
+      },
+      {
+        "id": 21,
+        "english": {
+          "present": "play",
+          "past": "played",
+          "past_participle": "played"
+        },
+        "spanish": "jugar",
+        "example": {
+          "present": "The children play outside.",
+          "past": "The children played outside.",
+          "past_participle": "The children have played outside."
+        }
+      },
+      {
+        "id": 22,
+        "english": {
+          "present": "remember",
+          "past": "remembered",
+          "past_participle": "remembered"
+        },
+        "spanish": "recordar",
+        "example": {
+          "present": "Please remember to call me.",
+          "past": "You remembered to call me.",
+          "past_participle": "You have remembered to call me."
+        }
+      },
+      {
+        "id": 23,
+        "english": {
+          "present": "start",
+          "past": "started",
+          "past_participle": "started"
+        },
+        "spanish": "empezar",
+        "example": {
+          "present": "Let's start the meeting.",
+          "past": "We started the meeting.",
+          "past_participle": "We have started the meeting."
+        }
+      },
+      {
+        "id": 24,
+        "english": {
+          "present": "stop",
+          "past": "stopped",
+          "past_participle": "stopped"
+        },
+        "spanish": "detener",
+        "example": {
+          "present": "Please stop talking.",
+          "past": "You stopped talking.",
+          "past_participle": "You have stopped talking."
+        }
+      },
+      {
+        "id": 25,
+        "english": {
+          "present": "study",
+          "past": "studied",
+          "past_participle": "studied"
+        },
+        "spanish": "estudiar",
+        "example": {
+          "present": "I need to study for the exam.",
+          "past": "I studied for the exam.",
+          "past_participle": "I have studied for the exam."
+        }
+      },
+      {
+        "id": 26,
+        "english": {
+          "present": "talk",
+          "past": "talked",
+          "past_participle": "talked"
+        },
+        "spanish": "hablar",
+        "example": {
+          "present": "We need to talk.",
+          "past": "We talked.",
+          "past_participle": "We have talked."
+        }
+      },
+      {
+        "id": 27,
+        "english": {
+          "present": "try",
+          "past": "tried",
+          "past_participle": "tried"
+        },
+        "spanish": "intentar",
+        "example": {
+          "present": "I will try my best.",
+          "past": "I tried my best.",
+          "past_participle": "I have tried my best."
+        }
+      },
+      {
+        "id": 28,
+        "english": {
+          "present": "use",
+          "past": "used",
+          "past_participle": "used"
+        },
+        "spanish": "usar",
+        "example": {
+          "present": "Can I use your phone?",
+          "past": "I used your phone.",
+          "past_participle": "I have used your phone."
+        }
+      },
+      {
+        "id": 29,
+        "english": {
+          "present": "wait",
+          "past": "waited",
+          "past_participle": "waited"
+        },
+        "spanish": "esperar",
+        "example": {
+          "present": "Please wait here.",
+          "past": "I waited here.",
+          "past_participle": "I have waited here."
+        }
+      },
+      {
+        "id": 30,
+        "english": {
+          "present": "walk",
+          "past": "walked",
+          "past_participle": "walked"
+        },
+        "spanish": "caminar",
+        "example": {
+          "present": "I walk to work every day.",
+          "past": "I walked to work every day.",
+          "past_participle": "I have walked to work every day."
+        }
+      },
+      {
+        "id": 31,
+        "english": {
+          "present": "want",
+          "past": "wanted",
+          "past_participle": "wanted"
+        },
+        "spanish": "querer",
+        "example": {
+          "present": "I want to travel.",
+          "past": "I wanted to travel.",
+          "past_participle": "I have wanted to travel."
+        }
+      },
+      {
+        "id": 32,
+        "english": {
+          "present": "watch",
+          "past": "watched",
+          "past_participle": "watched"
+        },
+        "spanish": "ver",
+        "example": {
+          "present": "We watch TV together.",
+          "past": "We watched TV together.",
+          "past_participle": "We have watched TV together."
+        }
+      },
+      {
+        "id": 33,
+        "english": {
+          "present": "work",
+          "past": "worked",
+          "past_participle": "worked"
+        },
+        "spanish": "trabajar",
+        "example": {
+          "present": "I work from home.",
+          "past": "I worked from home.",
+          "past_participle": "I have worked from home."
+        }
+      },
+      {
+        "id": 34,
+        "english": {
+          "present": "learn",
+          "past": "learned",
+          "past_participle": "learned"
+        },
+        "spanish": "aprender",
+        "example": {
+          "present": "I want to learn Spanish.",
+          "past": "I learned Spanish.",
+          "past_participle": "I have learned Spanish."
+        }
+      },
+      {
+        "id": 35,
+        "english": {
+          "present": "love",
+          "past": "loved",
+          "past_participle": "loved"
+        },
+        "spanish": "amar",
+        "example": {
+          "present": "I love my family.",
+          "past": "I loved my family.",
+          "past_participle": "I have loved my family."
+        }
+      },
+      {
+        "id": 36,
+        "english": {
+          "present": "visit",
+          "past": "visited",
+          "past_participle": "visited"
+        },
+        "spanish": "visitar",
+        "example": {
+          "present": "I will visit my grandparents.",
+          "past": "I visited my grandparents.",
+          "past_participle": "I have visited my grandparents."
+        }
+      },
+      {
+        "id": 37,
+        "english": {
+          "present": "cook",
+          "past": "cooked",
+          "past_participle": "cooked"
+        },
+        "spanish": "cocinar",
+        "example": {
+          "present": "I love to cook Italian food.",
+          "past": "I cooked Italian food.",
+          "past_participle": "I have cooked Italian food."
+        }
+      },
+      {
+        "id": 38,
+        "english": {
+          "present": "clean",
+          "past": "cleaned",
+          "past_participle": "cleaned"
+        },
+        "spanish": "limpiar",
+        "example": {
+          "present": "She cleans the house.",
+          "past": "She cleaned the house.",
+          "past_participle": "She has cleaned the house."
+        }
+      },
+      {
+        "id": 39,
+        "english": {
+          "present": "tell",
+          "past": "told",
+          "past_participle": "told"
+        },
+        "spanish": "decir",
+        "example": {
+          "present": "Can you tell me the time?",
+          "past": "You told me the time.",
+          "past_participle": "You have told me the time."
+        }
+      }
+    ]
+  
+  

@@ -1,0 +1,492 @@
+ [
+      {
+        "id": 1,
+        "english": {
+          "present": "begin",
+          "past": "began",
+          "past_participle": "begun"
+        },
+        "spanish": "empezar",
+        "example": {
+          "present": "Let's begin the lesson.",
+          "past": "We began the lesson yesterday.",
+          "past_participle": "We have begun the lesson."
+        }
+      },
+      {
+        "id": 2,
+        "english": {
+          "present": "break",
+          "past": "broke",
+          "past_participle": "broken"
+        },
+        "spanish": "romper",
+        "example": {
+          "present": "Don't break the glass.",
+          "past": "He broke the glass.",
+          "past_participle": "He has broken the glass."
+        }
+      },
+      {
+        "id": 3,
+        "english": {
+          "present": "bring",
+          "past": "brought",
+          "past_participle": "brought"
+        },
+        "spanish": "traer",
+        "example": {
+          "present": "Please bring your ID.",
+          "past": "She brought her ID.",
+          "past_participle": "She has brought her ID."
+        }
+      },
+      {
+        "id": 4,
+        "english": {
+          "present": "build",
+          "past": "built",
+          "past_participle": "built"
+        },
+        "spanish": "construir",
+        "example": {
+          "present": "They build houses.",
+          "past": "They built a house.",
+          "past_participle": "They have built a house."
+        }
+      },
+      {
+        "id": 5,
+        "english": {
+          "present": "buy",
+          "past": "bought",
+          "past_participle": "bought"
+        },
+        "spanish": "comprar",
+        "example": {
+          "present": "I buy groceries every week.",
+          "past": "I bought groceries yesterday.",
+          "past_participle": "I have bought groceries."
+        }
+      },
+      {
+        "id": 6,
+        "english": {
+          "present": "catch",
+          "past": "caught",
+          "past_participle": "caught"
+        },
+        "spanish": "atrapar",
+        "example": {
+          "present": "I catch the bus every morning.",
+          "past": "I caught the bus yesterday.",
+          "past_participle": "I have caught the bus."
+        }
+      },
+      {
+        "id": 7,
+        "english": {
+          "present": "choose",
+          "past": "chose",
+          "past_participle": "chosen"
+        },
+        "spanish": "elegir",
+        "example": {
+          "present": "You choose your own path.",
+          "past": "You chose your own path.",
+          "past_participle": "You have chosen your own path."
+        }
+      },
+      {
+        "id": 8,
+        "english": {
+          "present": "come",
+          "past": "came",
+          "past_participle": "come"
+        },
+        "spanish": "venir",
+        "example": {
+          "present": "Can you come here?",
+          "past": "You came here.",
+          "past_participle": "You have come here."
+        }
+      },
+      {
+        "id": 9,
+        "english": {
+          "present": "do",
+          "past": "did",
+          "past_participle": "done"
+        },
+        "spanish": "hacer",
+        "example": {
+          "present": "I do my homework.",
+          "past": "I did my homework.",
+          "past_participle": "I have done my homework."
+        }
+      },
+      {
+        "id": 10,
+        "english": {
+          "present": "drink",
+          "past": "drank",
+          "past_participle": "drunk"
+        },
+        "spanish": "beber",
+        "example": {
+          "present": "I drink water every day.",
+          "past": "I drank water yesterday.",
+          "past_participle": "I have drunk water today."
+        }
+      },
+      {
+        "id": 11,
+        "english": {
+          "present": "eat",
+          "past": "ate",
+          "past_participle": "eaten"
+        },
+        "spanish": "comer",
+        "example": {
+          "present": "I eat breakfast every morning.",
+          "past": "I ate breakfast yesterday.",
+          "past_participle": "I have eaten breakfast today."
+        }
+      },
+      {
+        "id": 12,
+        "english": {
+          "present": "fall",
+          "past": "fell",
+          "past_participle": "fallen"
+        },
+        "spanish": "caer",
+        "example": {
+          "present": "I fall down sometimes.",
+          "past": "I fell down yesterday.",
+          "past_participle": "I have fallen down before."
+        }
+      },
+      {
+        "id": 13,
+        "english": {
+          "present": "feel",
+          "past": "felt",
+          "past_participle": "felt"
+        },
+        "spanish": "sentir",
+        "example": {
+          "present": "I feel happy today.",
+          "past": "I felt happy yesterday.",
+          "past_participle": "I have felt happy before."
+        }
+      },
+      {
+        "id": 14,
+        "english": {
+          "present": "find",
+          "past": "found",
+          "past_participle": "found"
+        },
+        "spanish": "encontrar",
+        "example": {
+          "present": "I find this book interesting.",
+          "past": "I found this book interesting.",
+          "past_participle": "I have found this book interesting."
+        }
+      },
+      {
+        "id": 15,
+        "english": {
+          "present": "get",
+          "past": "got",
+          "past_participle": "gotten"
+        },
+        "spanish": "obtener",
+        "example": {
+          "present": "I get good grades.",
+          "past": "I got good grades.",
+          "past_participle": "I have gotten good grades."
+        }
+      },
+      {
+        "id": 16,
+        "english": {
+          "present": "give",
+          "past": "gave",
+          "past_participle": "given"
+        },
+        "spanish": "dar",
+        "example": {
+          "present": "I give you my word.",
+          "past": "I gave you my word.",
+          "past_participle": "I have given you my word."
+        }
+      },
+      {
+        "id": 17,
+        "english": {
+          "present": "go",
+          "past": "went",
+          "past_participle": "gone"
+        },
+        "spanish": "ir",
+        "example": {
+          "present": "I go to the gym.",
+          "past": "I went to the gym.",
+          "past_participle": "I have gone to the gym."
+        }
+      },
+      {
+        "id": 18,
+        "english": {
+          "present": "have",
+          "past": "had",
+          "past_participle": "had"
+        },
+        "spanish": "tener",
+        "example": {
+          "present": "I have a car.",
+          "past": "I had a car.",
+          "past_participle": "I have had a car."
+        }
+      },
+      {
+        "id": 19,
+        "english": {
+          "present": "hear",
+          "past": "heard",
+          "past_participle": "heard"
+        },
+        "spanish": "oír",
+        "example": {
+          "present": "I hear music.",
+          "past": "I heard music.",
+          "past_participle": "I have heard music."
+        }
+      },
+      {
+        "id": 20,
+        "english": {
+          "present": "know",
+          "past": "knew",
+          "past_participle": "known"
+        },
+        "spanish": "saber",
+        "example": {
+          "present": "I know the answer.",
+          "past": "I knew the answer.",
+          "past_participle": "I have known the answer."
+        }
+      },
+      {
+        "id": 21,
+        "english": {
+          "present": "leave",
+          "past": "left",
+          "past_participle": "left"
+        },
+        "spanish": "dejar",
+        "example": {
+          "present": "I leave home at 8 AM.",
+          "past": "I left home at 8 AM.",
+          "past_participle": "I have left home at 8 AM."
+        }
+      },
+      {
+        "id": 22,
+        "english": {
+          "present": "make",
+          "past": "made",
+          "past_participle": "made"
+        },
+        "spanish": "hacer",
+        "example": {
+          "present": "I make my bed every morning.",
+          "past": "I made my bed this morning.",
+          "past_participle": "I have made my bed every morning."
+        }
+      },
+      {
+        "id": 23,
+        "english": {
+          "present": "read",
+          "past": "read",
+          "past_participle": "read"
+        },
+        "spanish": "leer",
+        "example": {
+          "present": "I read a book every week.",
+          "past": "I read a book last week.",
+          "past_participle": "I have read a book every week."
+        }
+      },
+      {
+        "id": 24,
+        "english": {
+          "present": "run",
+          "past": "ran",
+          "past_participle": "run"
+        },
+        "spanish": "correr",
+        "example": {
+          "present": "I run every morning.",
+          "past": "I ran yesterday.",
+          "past_participle": "I have run every morning."
+        }
+      },
+      {
+        "id": 25,
+        "english": {
+          "present": "see",
+          "past": "saw",
+          "past_participle": "seen"
+        },
+        "spanish": "ver",
+        "example": {
+          "present": "I see the mountains.",
+          "past": "I saw the mountains.",
+          "past_participle": "I have seen the mountains."
+        }
+      },
+      {
+        "id": 26,
+        "english": {
+          "present": "send",
+          "past": "sent",
+          "past_participle": "sent"
+        },
+        "spanish": "enviar",
+        "example": {
+          "present": "I send emails every day.",
+          "past": "I sent an email yesterday.",
+          "past_participle": "I have sent an email every day."
+        }
+      },
+      {
+        "id": 27,
+        "english": {
+          "present": "sing",
+          "past": "sang",
+          "past_participle": "sung"
+        },
+        "spanish": "cantar",
+        "example": {
+          "present": "I sing in the shower.",
+          "past": "I sang in the shower.",
+          "past_participle": "I have sung in the shower."
+        }
+      },
+      {
+        "id": 28,
+        "english": {
+          "present": "speak",
+          "past": "spoke",
+          "past_participle": "spoken"
+        },
+        "spanish": "hablar",
+        "example": {
+          "present": "I speak English and Spanish.",
+          "past": "I spoke English and Spanish.",
+          "past_participle": "I have spoken English and Spanish."
+        }
+      },
+      {
+        "id": 29,
+        "english": {
+          "present": "take",
+          "past": "took",
+          "past_participle": "taken"
+        },
+        "spanish": "tomar",
+        "example": {
+          "present": "I take my dog for a walk.",
+          "past": "I took my dog for a walk.",
+          "past_participle": "I have taken my dog for a walk."
+        }
+      },
+      {
+        "id": 30,
+        "english": {
+          "present": "teach",
+          "past": "taught",
+          "past_participle": "taught"
+        },
+        "spanish": "enseñar",
+        "example": {
+          "present": "I teach English.",
+          "past": "I taught English last year.",
+          "past_participle": "I have taught English for many years."
+        }
+      },
+      {
+        "id": 31,
+        "english": {
+          "present": "tell",
+          "past": "told",
+          "past_participle": "told"
+        },
+        "spanish": "decir",
+        "example": {
+          "present": "I tell stories to my children.",
+          "past": "I told stories to my children.",
+          "past_participle": "I have told stories to my children."
+        }
+      },
+      {
+        "id": 32,
+        "english": {
+          "present": "think",
+          "past": "thought",
+          "past_participle": "thought"
+        },
+        "spanish": "pensar",
+        "example": {
+          "present": "I think about my future.",
+          "past": "I thought about my future.",
+          "past_participle": "I have thought about my future."
+        }
+      },
+      {
+        "id": 33,
+        "english": {
+          "present": "understand",
+          "past": "understood",
+          "past_participle": "understood"
+        },
+        "spanish": "entender",
+        "example": {
+          "present": "I understand the lesson.",
+          "past": "I understood the lesson.",
+          "past_participle": "I have understood the lesson."
+        }
+      },
+      {
+        "id": 34,
+        "english": {
+          "present": "wear",
+          "past": "wore",
+          "past_participle": "worn"
+        },
+        "spanish": "usar",
+        "example": {
+          "present": "I wear a uniform to school.",
+          "past": "I wore a uniform to school.",
+          "past_participle": "I have worn a uniform to school."
+        }
+      },
+      {
+        "id": 35,
+        "english": {
+          "present": "write",
+          "past": "wrote",
+          "past_participle": "written"
+        },
+        "spanish": "escribir",
+        "example": {
+          "present": "I write in my journal every day.",
+          "past": "I wrote in my journal yesterday.",
+          "past_participle": "I have written in my journal every day."
+        }
+      }
+    ]  

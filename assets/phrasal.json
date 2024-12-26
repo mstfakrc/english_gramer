@@ -1,0 +1,303 @@
+[
+      {
+        "id": 1,
+        "phrasalVerb": "break down",
+        "spanish": "averiarse",
+        "example": "My car breaks down often."
+      },
+      {
+        "id": 2,
+        "phrasalVerb": "bring up",
+        "spanish": "mencionar",
+        "example": "She always brings up her childhood in conversations."
+      },
+      {
+        "id": 3,
+        "phrasalVerb": "call off",
+        "spanish": "cancelar",
+        "example": "They call off the meeting."
+      },
+      {
+        "id": 4,
+        "phrasalVerb": "come across",
+        "spanish": "encontrar por casualidad",
+        "example": "I come across new ideas every day."
+      },
+      {
+        "id": 5,
+        "phrasalVerb": "get along",
+        "spanish": "llevarse bien",
+        "example": "They get along well with each other."
+      },
+      {
+        "id": 6,
+        "phrasalVerb": "give up",
+        "spanish": "rendirse",
+        "example": "He never gives up on his dreams."
+      },
+      {
+        "id": 7,
+        "phrasalVerb": "look after",
+        "spanish": "cuidar",
+        "example": "She looks after her younger brother."
+      },
+      {
+        "id": 8,
+        "phrasalVerb": "make up",
+        "spanish": "inventar",
+        "example": "He makes up stories to entertain us."
+      },
+      {
+        "id": 9,
+        "phrasalVerb": "run into",
+        "spanish": "encontrarse con",
+        "example": "I run into my teacher at the store."
+      },
+      {
+        "id": 10,
+        "phrasalVerb": "take off",
+        "spanish": "despegar",
+        "example": "The plane takes off at 8 PM."
+      },
+      {
+        "id": 11,
+        "phrasalVerb": "turn up",
+        "spanish": "aparecer",
+        "example": "He always turns up late to meetings."
+      },
+      {
+        "id": 12,
+        "phrasalVerb": "work out",
+        "spanish": "ejercitarse",
+        "example": "She works out every morning."
+      },
+      {
+        "id": 13,
+        "phrasalVerb": "show up",
+        "spanish": "aparecer",
+        "example": "He shows up to every event."
+      },
+      {
+        "id": 14,
+        "phrasalVerb": "look forward to",
+        "spanish": "esperar con ansias",
+        "example": "I look forward to the weekend."
+      },
+      {
+        "id": 15,
+        "phrasalVerb": "give away",
+        "spanish": "regalar",
+        "example": "They give away free samples."
+      },
+      {
+        "id": 16,
+        "phrasalVerb": "come up with",
+        "spanish": "inventar, proponer",
+        "example": "She comes up with great ideas."
+      },
+      {
+        "id": 17,
+        "phrasalVerb": "figure out",
+        "spanish": "descifrar",
+        "example": "I need to figure out this problem."
+      },
+      {
+        "id": 18,
+        "phrasalVerb": "get away",
+        "spanish": "escapar",
+        "example": "They plan to get away for the weekend."
+      },
+      {
+        "id": 19,
+        "phrasalVerb": "hold on",
+        "spanish": "esperar",
+        "example": "Please hold on for a moment."
+      },
+      {
+        "id": 20,
+        "phrasalVerb": "keep up",
+        "spanish": "mantener el ritmo",
+        "example": "He keeps up with the latest news."
+      },
+      {
+        "id": 21,
+        "phrasalVerb": "let down",
+        "spanish": "decepcionar",
+        "example": "He never lets his friends down."
+      },
+      {
+        "id": 22,
+        "phrasalVerb": "look up to",
+        "spanish": "admirar",
+        "example": "I look up to my parents."
+      },
+      {
+        "id": 23,
+        "phrasalVerb": "make out",
+        "spanish": "entender",
+        "example": "I can't make out what he is saying."
+      },
+      {
+        "id": 24,
+        "phrasalVerb": "pick up",
+        "spanish": "recoger",
+        "example": "She picks up her kids from school."
+      },
+      {
+        "id": 25,
+        "phrasalVerb": "put off",
+        "spanish": "posponer",
+        "example": "He puts off doing his homework."
+      },
+      {
+        "id": 26,
+        "phrasalVerb": "set up",
+        "spanish": "establecer",
+        "example": "They set up a new company."
+      },
+      {
+        "id": 27,
+        "phrasalVerb": "take after",
+        "spanish": "parecerse a",
+        "example": "She takes after her mother."
+      },
+      {
+        "id": 28,
+        "phrasalVerb": "turn down",
+        "spanish": "rechazar",
+        "example": "He turns down every job offer."
+      },
+      {
+        "id": 29,
+        "phrasalVerb": "wake up",
+        "spanish": "despertarse",
+        "example": "I wake up at 7 AM every day."
+      },
+      {
+        "id": 30,
+        "phrasalVerb": "get over",
+        "spanish": "superar",
+        "example": "She gets over difficulties quickly."
+      },
+      {
+        "id": 31,
+        "phrasalVerb": "bring up",
+        "spanish": "criar",
+        "example": "They bring up their children well."
+      },
+      {
+        "id": 32,
+        "phrasalVerb": "carry on",
+        "spanish": "continuar",
+        "example": "She carries on with her work."
+      },
+      {
+        "id": 33,
+        "phrasalVerb": "cut down on",
+        "spanish": "reducir",
+        "example": "He cuts down on sugar."
+      },
+      {
+        "id": 34,
+        "phrasalVerb": "deal with",
+        "spanish": "tratar con",
+        "example": "He deals with clients every day."
+      },
+      {
+        "id": 35,
+        "phrasalVerb": "find out",
+        "spanish": "descubrir",
+        "example": "She finds out the truth."
+      },
+      {
+        "id": 36,
+        "phrasalVerb": "get through",
+        "spanish": "superar",
+        "example": "He gets through tough times."
+      },
+      {
+        "id": 37,
+        "phrasalVerb": "give in",
+        "spanish": "ceder",
+        "example": "She never gives in to pressure."
+      },
+      {
+        "id": 38,
+        "phrasalVerb": "hold up",
+        "spanish": "retrasar",
+        "example": "Traffic holds up the bus."
+      },
+      {
+        "id": 39,
+        "phrasalVerb": "keep on",
+        "spanish": "seguir",
+        "example": "He keeps on talking."
+      },
+      {
+        "id": 40,
+        "phrasalVerb": "let in",
+        "spanish": "dejar entrar",
+        "example": "She lets in the cat."
+      },
+      {
+        "id": 41,
+        "phrasalVerb": "look out",
+        "spanish": "tener cuidado",
+        "example": "Look out for cars."
+      },
+      {
+        "id": 42,
+        "phrasalVerb": "pass away",
+        "spanish": "fallecer",
+        "example": "His grandmother passes away."
+      },
+      {
+        "id": 43,
+        "phrasalVerb": "put up with",
+        "spanish": "tolerar",
+        "example": "She puts up with his behavior."
+      },
+      {
+        "id": 44,
+        "phrasalVerb": "run out of",
+        "spanish": "quedarse sin",
+        "example": "They run out of milk."
+      },
+      {
+        "id": 45,
+        "phrasalVerb": "show off",
+        "spanish": "presumir",
+        "example": "He shows off his new car."
+      },
+      {
+        "id": 46,
+        "phrasalVerb": "take over",
+        "spanish": "tomar el control",
+        "example": "She takes over the project."
+      },
+      {
+        "id": 47,
+        "phrasalVerb": "throw away",
+        "spanish": "tirar",
+        "example": "He throws away old clothes."
+      },
+      {
+        "id": 48,
+        "phrasalVerb": "turn up",
+        "spanish": "aparecer",
+        "example": "He turns up unexpectedly."
+      },
+      {
+        "id": 49,
+        "phrasalVerb": "wear out",
+        "spanish": "desgastarse",
+        "example": "These shoes wear out quickly."
+      },
+      {
+        "id": 50,
+        "phrasalVerb": "write down",
+        "spanish": "anotar",
+        "example": "He writes down everything she says."
+      }
+    ]
+  

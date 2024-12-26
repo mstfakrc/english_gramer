@@ -1,0 +1,252 @@
+ [
+      {
+        "id": 1,
+        "expression": "Break the ice",
+        "meaning": "Romper el hielo"
+      },
+      {
+        "id": 2,
+        "expression": "Hit the nail on the head",
+        "meaning": "Dar en el clavo"
+      },
+      {
+        "id": 3,
+        "expression": "Piece of cake",
+        "meaning": "Pan comido"
+      },
+      {
+        "id": 4,
+        "expression": "Let the cat out of the bag",
+        "meaning": "Revelar un secreto"
+      },
+      {
+        "id": 5,
+        "expression": "Bite the bullet",
+        "meaning": "Afrontar una situación difícil"
+      },
+      {
+        "id": 6,
+        "expression": "Under the weather",
+        "meaning": "Sentirse mal"
+      },
+      {
+        "id": 7,
+        "expression": "The ball is in your court",
+        "meaning": "Te toca a ti"
+      },
+      {
+        "id": 8,
+        "expression": "Kick the bucket",
+        "meaning": "Estirar la pata"
+      },
+      {
+        "id": 9,
+        "expression": "Spill the beans",
+        "meaning": "Soltar la sopa"
+      },
+      {
+        "id": 10,
+        "expression": "Cut to the chase",
+        "meaning": "Ir al grano"
+      },
+      {
+        "id": 11,
+        "expression": "Once in a blue moon",
+        "meaning": "De vez en cuando"
+      },
+      {
+        "id": 12,
+        "expression": "Cost an arm and a leg",
+        "meaning": "Costar un ojo de la cara"
+      },
+      {
+        "id": 13,
+        "expression": "Burn the midnight oil",
+        "meaning": "Quemarse las pestañas"
+      },
+      {
+        "id": 14,
+        "expression": "Hit the books",
+        "meaning": "Ponerse a estudiar"
+      },
+      {
+        "id": 15,
+        "expression": "Burn the candle at both ends",
+        "meaning": "Trabajar muy duro"
+      },
+      {
+        "id": 16,
+        "expression": "Bite off more than you can chew",
+        "meaning": "Morder más de lo que se puede masticar"
+      },
+      {
+        "id": 17,
+        "expression": "Break a leg",
+        "meaning": "Buena suerte"
+      },
+      {
+        "id": 18,
+        "expression": "Cry over spilled milk",
+        "meaning": "Llorar sobre leche derramada"
+      },
+      {
+        "id": 19,
+        "expression": "Every cloud has a silver lining",
+        "meaning": "No hay mal que por bien no venga"
+      },
+      {
+        "id": 20,
+        "expression": "Actions speak louder than words",
+        "meaning": "Las acciones hablan más fuerte que las palabras"
+      },
+      {
+        "id": 21,
+        "expression": "Hit the road",
+        "meaning": "Ponerse en marcha"
+      },
+      {
+        "id": 22,
+        "expression": "Jump on the bandwagon",
+        "meaning": "Unirse a la moda"
+      },
+      {
+        "id": 23,
+        "expression": "Kill two birds with one stone",
+        "meaning": "Matar dos pájaros de un tiro"
+      },
+      {
+        "id": 24,
+        "expression": "The last straw",
+        "meaning": "La gota que colma el vaso"
+      },
+      {
+        "id": 25,
+        "expression": "Let sleeping dogs lie",
+        "meaning": "Dejar las cosas como están"
+      },
+      {
+        "id": 26,
+        "expression": "No pain, no gain",
+        "meaning": "Sin esfuerzo no hay recompensa"
+      },
+      {
+        "id": 27,
+        "expression": "Off the hook",
+        "meaning": "Liberado de una situación difícil"
+      },
+      {
+        "id": 28,
+        "expression": "Pull someone's leg",
+        "meaning": "Tomarle el pelo a alguien"
+      },
+      {
+        "id": 29,
+        "expression": "See eye to eye",
+        "meaning": "Estar de acuerdo"
+      },
+      {
+        "id": 30,
+        "expression": "Sit on the fence",
+        "meaning": "No tomar partido"
+      },
+      {
+        "id": 31,
+        "expression": "A blessing in disguise",
+        "meaning": "Una bendición disfrazada"
+      },
+      {
+        "id": 32,
+        "expression": "Add insult to injury",
+        "meaning": "Añadir sal a la herida"
+      },
+      {
+        "id": 33,
+        "expression": "Beat around the bush",
+        "meaning": "Andarse por las ramas"
+      },
+      {
+        "id": 34,
+        "expression": "Better late than never",
+        "meaning": "Mejor tarde que nunca"
+      },
+      {
+        "id": 35,
+        "expression": "Break the bank",
+        "meaning": "Gastar una fortuna"
+      },
+      {
+        "id": 36,
+        "expression": "Caught between a rock and a hard place",
+        "meaning": "Entre la espada y la pared"
+      },
+      {
+        "id": 37,
+        "expression": "Curiosity killed the cat",
+        "meaning": "La curiosidad mató al gato"
+      },
+      {
+        "id": 38,
+        "expression": "Don't judge a book by its cover",
+        "meaning": "No juzgues un libro por su portada"
+      },
+      {
+        "id": 39,
+        "expression": "Elbow grease",
+        "meaning": "Esfuerzo físico"
+      },
+      {
+        "id": 40,
+        "expression": "Face the music",
+        "meaning": "Afrontar las consecuencias"
+      },
+      {
+        "id": 41,
+        "expression": "Get out of hand",
+        "meaning": "Fuera de control"
+      },
+      {
+        "id": 42,
+        "expression": "Hit the sack",
+        "meaning": "Ir a la cama"
+      },
+      {
+        "id": 43,
+        "expression": "In the heat of the moment",
+        "meaning": "En el calor del momento"
+      },
+      {
+        "id": 44,
+        "expression": "Jump the gun",
+        "meaning": "Adelantarse"
+      },
+      {
+        "id": 45,
+        "expression": "Keep your chin up",
+        "meaning": "Mantén la cabeza en alto"
+      },
+      {
+        "id": 46,
+        "expression": "Leave no stone unturned",
+        "meaning": "No dejar piedra sin mover"
+      },
+      {
+        "id": 47,
+        "expression": "Miss the boat",
+        "meaning": "Perder la oportunidad"
+      },
+      {
+        "id": 48,
+        "expression": "On thin ice",
+        "meaning": "En la cuerda floja"
+      },
+      {
+        "id": 49,
+        "expression": "Pull out all the stops",
+        "meaning": "Usar todos los recursos"
+      },
+      {
+        "id": 50,
+        "expression": "Ring a bell",
+        "meaning": "Sonar familiar"
+      }
+    ]  

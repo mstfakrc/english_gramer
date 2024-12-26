@@ -1,0 +1,303 @@
+ [
+      {
+        "id": 1,
+        "word": "abandon",
+        "spanish": "abandonar",
+        "example": "He decided to abandon the project."
+      },
+      {
+        "id": 2,
+        "word": "ability",
+        "spanish": "habilidad",
+        "example": "She has the ability to solve complex problems."
+      },
+      {
+        "id": 3,
+        "word": "absorb",
+        "spanish": "absorber",
+        "example": "The sponge absorbs the water quickly."
+      },
+      {
+        "id": 4,
+        "word": "abundant",
+        "spanish": "abundante",
+        "example": "The region is abundant in natural resources."
+      },
+      {
+        "id": 5,
+        "word": "accelerate",
+        "spanish": "acelerar",
+        "example": "The car accelerates smoothly."
+      },
+      {
+        "id": 6,
+        "word": "access",
+        "spanish": "acceso",
+        "example": "We need access to the building."
+      },
+      {
+        "id": 7,
+        "word": "accomplish",
+        "spanish": "lograr",
+        "example": "He managed to accomplish all his goals."
+      },
+      {
+        "id": 8,
+        "word": "accurate",
+        "spanish": "preciso",
+        "example": "The measurements are accurate."
+      },
+      {
+        "id": 9,
+        "word": "achieve",
+        "spanish": "lograr",
+        "example": "She worked hard to achieve success."
+      },
+      {
+        "id": 10,
+        "word": "acknowledge",
+        "spanish": "reconocer",
+        "example": "He acknowledged the help of his friends."
+      },
+      {
+        "id": 11,
+        "word": "adapt",
+        "spanish": "adaptar",
+        "example": "Animals adapt to their environment."
+      },
+      {
+        "id": 12,
+        "word": "adequate",
+        "spanish": "adecuado",
+        "example": "The supply is adequate for our needs."
+      },
+      {
+        "id": 13,
+        "word": "adjust",
+        "spanish": "ajustar",
+        "example": "You can adjust the seat height."
+      },
+      {
+        "id": 14,
+        "word": "advantage",
+        "spanish": "ventaja",
+        "example": "Being tall is an advantage in basketball."
+      },
+      {
+        "id": 15,
+        "word": "affect",
+        "spanish": "afectar",
+        "example": "The weather affects my mood."
+      },
+      {
+        "id": 16,
+        "word": "afford",
+        "spanish": "permitirse",
+        "example": "I can't afford to buy a new car."
+      },
+      {
+        "id": 17,
+        "word": "alert",
+        "spanish": "alerta",
+        "example": "The guard is always alert."
+      },
+      {
+        "id": 18,
+        "word": "allocate",
+        "spanish": "asignar",
+        "example": "The company allocates resources efficiently."
+      },
+      {
+        "id": 19,
+        "word": "alternative",
+        "spanish": "alternativa",
+        "example": "We need to find an alternative solution."
+      },
+      {
+        "id": 20,
+        "word": "amazing",
+        "spanish": "asombroso",
+        "example": "The view from the top is amazing."
+      },
+      {
+        "id": 21,
+        "word": "ambition",
+        "spanish": "ambición",
+        "example": "Her ambition drives her to succeed."
+      },
+      {
+        "id": 22,
+        "word": "analyze",
+        "spanish": "analizar",
+        "example": "We need to analyze the data."
+      },
+      {
+        "id": 23,
+        "word": "ancient",
+        "spanish": "antiguo",
+        "example": "They found ancient artifacts."
+      },
+      {
+        "id": 24,
+        "word": "annual",
+        "spanish": "anual",
+        "example": "The annual meeting is in December."
+      },
+      {
+        "id": 25,
+        "word": "anticipate",
+        "spanish": "anticipar",
+        "example": "We anticipate a lot of visitors."
+      },
+      {
+        "id": 26,
+        "word": "anxiety",
+        "spanish": "ansiedad",
+        "example": "He suffers from anxiety."
+      },
+      {
+        "id": 27,
+        "word": "apparent",
+        "spanish": "aparente",
+        "example": "The problem was apparent to everyone."
+      },
+      {
+        "id": 28,
+        "word": "appeal",
+        "spanish": "apelar",
+        "example": "She plans to appeal the decision."
+      },
+      {
+        "id": 29,
+        "word": "approach",
+        "spanish": "enfoque",
+        "example": "We need a new approach to the problem."
+      },
+      {
+        "id": 30,
+        "word": "appropriate",
+        "spanish": "apropiado",
+        "example": "That comment was not appropriate."
+      },
+      {
+        "id": 31,
+        "word": "approve",
+        "spanish": "aprobar",
+        "example": "The committee approved the plan."
+      },
+      {
+        "id": 32,
+        "word": "arise",
+        "spanish": "surgir",
+        "example": "New challenges arise every day."
+      },
+      {
+        "id": 33,
+        "word": "arrange",
+        "spanish": "organizar",
+        "example": "She arranged the meeting."
+      },
+      {
+        "id": 34,
+        "word": "arrive",
+        "spanish": "llegar",
+        "example": "They arrived at the party late."
+      },
+      {
+        "id": 35,
+        "word": "ascend",
+        "spanish": "ascender",
+        "example": "The balloon ascends into the sky."
+      },
+      {
+        "id": 36,
+        "word": "assess",
+        "spanish": "evaluar",
+        "example": "We need to assess the situation."
+      },
+      {
+        "id": 37,
+        "word": "assign",
+        "spanish": "asignar",
+        "example": "The teacher assigns homework every day."
+      },
+      {
+        "id": 38,
+        "word": "assist",
+        "spanish": "asistir",
+        "example": "She assists the manager with tasks."
+      },
+      {
+        "id": 39,
+        "word": "assume",
+        "spanish": "asumir",
+        "example": "He assumes responsibility for the project."
+      },
+      {
+        "id": 40,
+        "word": "assure",
+        "spanish": "asegurar",
+        "example": "She assures us that everything is fine."
+      },
+      {
+        "id": 41,
+        "word": "astonishing",
+        "spanish": "asombroso",
+        "example": "The magician's tricks are astonishing."
+      },
+      {
+        "id": 42,
+        "word": "attach",
+        "spanish": "adjuntar",
+        "example": "Please attach the document to the email."
+      },
+      {
+        "id": 43,
+        "word": "attempt",
+        "spanish": "intentar",
+        "example": "He attempts to climb the mountain."
+      },
+      {
+        "id": 44,
+        "word": "attend",
+        "spanish": "asistir",
+        "example": "She attends the conference every year."
+      },
+      {
+        "id": 45,
+        "word": "attract",
+        "spanish": "atraer",
+        "example": "The flowers attract bees."
+      },
+      {
+        "id": 46,
+        "word": "avoid",
+        "spanish": "evitar",
+        "example": "He tries to avoid traffic in the morning."
+      },
+      {
+        "id": 47,
+        "word": "aware",
+        "spanish": "consciente",
+        "example": "She is aware of the risks."
+      },
+      {
+        "id": 48,
+        "word": "awesome",
+        "spanish": "impresionante",
+        "example": "The view from the top is awesome."
+      },
+      {
+        "id": 49,
+        "word": "balance",
+        "spanish": "equilibrio",
+        "example": "He struggles to maintain balance."
+      },
+      {
+        "id": 50,
+        "word": "ban",
+        "spanish": "prohibir",
+        "example": "They ban smoking in the building."
+      }
+    ]
+  
